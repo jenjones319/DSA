@@ -1,6 +1,6 @@
-﻿namespace ArrayReverse
+﻿namespace Challenges401.Arrays
 {
-    public class Reverse
+    class Reverse
     {
         public static int[] ReverseArray(int[] array)
         {

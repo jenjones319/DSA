@@ -1,4 +1,0 @@
-C:\Users\16052\deltav\401\DSA\ArrayReverse\obj\Debug\netcoreapp3.1\ArrayReverse.csprojAssemblyReference.cache
-C:\Users\16052\deltav\401\DSA\ArrayReverse\obj\Debug\netcoreapp3.1\ArrayReverse.AssemblyInfoInputs.cache
-C:\Users\16052\deltav\401\DSA\ArrayReverse\obj\Debug\netcoreapp3.1\ArrayReverse.AssemblyInfo.cs
-C:\Users\16052\deltav\401\DSA\ArrayReverse\obj\Debug\netcoreapp3.1\ArrayReverse.csproj.CoreCompileInputs.cache
