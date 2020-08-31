@@ -27,4 +27,4 @@ This one I didn't have a whiteboard image.
 * I used knowledge I had previously about how to add a spot for a new number, find the middle of an array, and return a new array with the additional int inserted. 
 
 ## Solution
-[_Whiteboard Diagram_](assets/dsa2.png)
+[_Whiteboard Diagram_](assets/image.png)
