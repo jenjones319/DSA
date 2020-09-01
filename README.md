@@ -33,10 +33,22 @@ This one I didn't have a whiteboard image.
 * Create a Node class that has properties for the value stored in the Node, and a pointer to the next Node.
 
 ## Challenge Description
-* This challenges provides practice for linked libraries
+* This challenges provides practice for linked lists
 
 ## Approach & Efficiency
 * Using methods insert, include, and to string. 
 
 ## Solution
 * This one I didn't have a whiteboard image. 
+
+## Challenge Summary: Challenge 6 - Linked List Insertions
+* Write methods for append, insert before, and insert after. 
+
+## Challenge Description
+* This challenges provides practice for adding into linked lists
+
+## Approach & Efficiency
+* Use methods that append, insert nodes before, and insert nodes after in a list. 
+
+## Solution
+* [_Whiteboard Diagram_](assets/ch6.jpg)
