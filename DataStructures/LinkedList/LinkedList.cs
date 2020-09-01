@@ -42,5 +42,69 @@
 
             return $"{result}NULL";
         }
+        public void Append(int value)
+        {
+            Node newNode = new Node();
+            newNode.Value = value;
+
+            if (Head == null)
+            {
+                Head = newNode;
+            }
+            else
+            {
+                Node current = Head;
+                while (current.Next != null)
+                {
+                    current = current.Next;
+                }
+                current.Next = newNode;
+            }
+
+
+        }
+
+        public void InsertBefore(int value, int newValue)
+        {
+            Node current = Head;
+            Node newNode = new Node();
+            newNode.Value = newValue;
+
+            while (current.Next != null)
+            {
+                Node nextNode = current.Next;
+                if (nextNode.Value == value)
+                {
+                    newNode.Next = nextNode;
+                    current.Next = newNode;
+                    current = nextNode;
+
+                }
+                current = current.Next;
+            }
+
+        }
+
+        public void InsertAfter(int value, int newValue)
+        {
+            Node current = Head;
+            Node newNode = new Node();
+            newNode.Value = newValue;
+
+            while (current.Next != null)
+            {
+
+                if (current.Value == value)
+                {
+
+                    Node temp = current.Next;
+                    current.Next = newNode;
+                    newNode.Next = temp;
+                    current = newNode;
+
+                }
+                current = current.Next;
+            }
+        }
     }
 }
