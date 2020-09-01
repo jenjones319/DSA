@@ -51,4 +51,4 @@ This one I didn't have a whiteboard image.
 * Use methods that append, insert nodes before, and insert nodes after in a list. 
 
 ## Solution
-* [_Whiteboard Diagram_](assets/ch6.jpg)
+* [_Whiteboard Diagram_](assets/challenge6.jpg)
