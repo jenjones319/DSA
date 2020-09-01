@@ -36,7 +36,7 @@ This one I didn't have a whiteboard image.
 * This challenges provides practice for linked libraries
 
 ## Approach & Efficiency
-Using methods insert, include, and to string. 
+* Using methods insert, include, and to string. 
 
 ## Solution
-This one I didn't have a whiteboard image. 
+* This one I didn't have a whiteboard image. 
