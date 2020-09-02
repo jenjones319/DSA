@@ -42,6 +42,8 @@
 
             return $"{result}NULL";
         }
+
+
         public void Append(int value)
         {
             Node newNode = new Node();
@@ -105,6 +107,30 @@
                 }
                 current = current.Next;
             }
+        }
+
+        public int KthFromTheEnd(int k)
+        {
+            int counter = 0;
+            Node current = Head;
+
+            while (current.Next != null)
+            {
+                current = current.Next;
+                counter++;
+            }
+            if (k > counter)
+            {
+                throw new OutOfRangeException(k);
+            }
+            current = Head;
+            for (int i = 0; i < counter - k; i++)
+            {
+                current = current.Next;
+            }
+            return current.Value;
+
+
         }
     }
 }
