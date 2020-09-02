@@ -43,6 +43,7 @@
             return $"{result}NULL";
         }
 
+
         public void Append(int value)
         {
             Node newNode = new Node();
