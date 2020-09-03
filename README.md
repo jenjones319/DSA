@@ -52,3 +52,17 @@ This one I didn't have a whiteboard image.
 
 ## Solution
 * [_Whiteboard Diagram_](assets/challenge6.jpg)
+
+## Challenge Summary: Challenge 8 - Linked List Zip
+* Write a function and zip two lists together into one. 
+
+## Challenge Description
+* This challenges provides practice for zipping two linked lists.
+
+## Approach & Efficiency
+* Use methods that zip two lists together, using nodes and linked lists built in prior challenges. 
+
+## Solution
+* [_Whiteboard Diagram_](assets/challenge8.jpg)
+
+
