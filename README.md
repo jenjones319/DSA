@@ -29,6 +29,20 @@ This one I didn't have a whiteboard image.
 ## Solution
 [_Whiteboard Diagram_](assets/image.png)
 
+## Challenge Summary: Challenge 3 - Binary Search 
+
+* Write a function called BinarySearch which takes in 2 parameters: a sorted array and the search key.
+
+## Challenge Description: 
+
+* This challenge builds on existing knowledge about arrays in C#, and adds to it with sorting and search. 
+
+## Approach & Efficiency
+* I used knowledge I had previously about how to sort an array, and practiced new knowledge using a search key. 
+
+## Solution
+I didn't have a whiteboard solution for this one. 
+
 ## Challenge Summary: Challenge 5 - Linked Lists
 * Create a Node class that has properties for the value stored in the Node, and a pointer to the next Node.
 
