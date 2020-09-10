@@ -4,13 +4,13 @@
 ## Challenge Summary: Challenge 1 - Reverse an Array
 * Using C# and VS, write a function called reverseArray which takes an array as an argument. Return an array with elements in reversed order.
 
-## Challenge Description
+### Challenge Description
 * This challenge relies on translating for loops and arrays effectively in C#, based on prior knowledge in .js.
 
-## Approach & Efficiency
+### Approach & Efficiency
 Using for loops, return an array, then return another array in reverse. 
 
-## Solution
+### Solution
 This one I didn't have a whiteboard image. 
 
 ## Challenge Summary: Challenge 2 - Shift an Array + Add a Number 
