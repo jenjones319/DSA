@@ -41,6 +41,8 @@ This one I didn't have a whiteboard image.
 ## Solution
 I didn't have a whiteboard solution for this one. 
 
+## Challenge Summary: Challenge 4 - Interview Challenge
+
 ## Challenge Summary: Challenge 5 - Linked Lists
 * Create a Node class that has properties for the value stored in the Node, and a pointer to the next Node.
 
@@ -88,5 +90,43 @@ I didn't have a whiteboard solution for this one.
 
 ## Solution
 * [_Whiteboard Diagram_](assets/challenge8.png)
+
+## Challenge Summary: Challenge 9 - Interview Challenge
+* Write a function and zip two lists together into one.  
+
+## Solution
+* [_Whiteboard Diagram_]
+
+
+
+## Challenge Summary: Challenge 10 - Stack and a Queue Implementation
+* Write a function and zip two lists together into one. 
+
+## Challenge Description
+* This challenges provides practice for zipping two linked lists.
+
+## Approach & Efficiency
+* Use methods that zip two lists together, using nodes and linked lists built in prior challenges. 
+
+## Solution
+* 
+
+
+## Challenge Summary: Challenge 11 - Stack and a Queue Implementation
+* Write a function and zip two lists together into one. 
+
+## Challenge Description
+* This challenges provides practice for zipping two linked lists.
+
+## Approach & Efficiency
+* Use methods that zip two lists together, using nodes and linked lists built in prior challenges. 
+
+## Solution
+* 
+
+
+
+
+
 
 
