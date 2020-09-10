@@ -13,8 +13,6 @@ Using for loops, return an array, then return another array in reverse.
 ## Solution
 This one I didn't have a whiteboard image. 
 
-
-
 ## Challenge Summary: Challenge 2 - Shift an Array + Add a Number 
 
 * Write a function called insertShiftArray which takes in an array and the value to be added. Return an array with the new value added at the middle index.
@@ -67,6 +65,18 @@ I didn't have a whiteboard solution for this one.
 ## Solution
 * [_Whiteboard Diagram_](assets/challenge6.jpg)
 
+## Challenge Summary: Challenge 7 - kth Value locating
+* k-th value from the end of a linked list. 
+
+## Challenge Description
+* This challenges provides practice for locating "k" - th value at the end of a list. 
+
+## Approach & Efficiency
+* Write a method for the Linked List class which takes a number, k, as a parameter. Return the node’s value that is k from the end of the linked list. 
+
+## Solution
+* I don't have a whiteboard image for this. 
+
 ## Challenge Summary: Challenge 8 - Linked List Zip
 * Write a function and zip two lists together into one. 
 
@@ -77,6 +87,6 @@ I didn't have a whiteboard solution for this one.
 * Use methods that zip two lists together, using nodes and linked lists built in prior challenges. 
 
 ## Solution
-* [_Whiteboard Diagram_](assets/challenge8.jpg)
+* [_Whiteboard Diagram_](assets/challenge8.png)
 
 
