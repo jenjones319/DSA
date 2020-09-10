@@ -1,5 +1,5 @@
 # DSA
-401 Data Structures and Algorithms
+_401 Data Structures and Algorithms_
 
 ## Challenge Summary: Challenge 1 - Reverse an Array
 * Using C# and VS, write a function called reverseArray which takes an array as an argument. Return an array with elements in reversed order.
@@ -17,14 +17,14 @@ This one I didn't have a whiteboard image.
 
 * Write a function called insertShiftArray which takes in an array and the value to be added. Return an array with the new value added at the middle index.
 
-## Challenge Description: 
+### Challenge Description: 
 
 * This challenge relies on taking in a number, finding the middle of an array, and returning a new array with the additional number included. 
 
-## Approach & Efficiency
+### Approach & Efficiency
 * I used knowledge I had previously about how to add a spot for a new number, find the middle of an array, and return a new array with the additional int inserted. 
 
-## Solution
+### Solution
 [_Whiteboard Diagram_](assets/image.png)
 
 ## Challenge Summary: Challenge 3 - Binary Search 
