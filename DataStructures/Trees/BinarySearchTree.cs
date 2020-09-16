@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 
 namespace DataStructures.Trees
@@ -108,6 +110,38 @@ namespace DataStructures.Trees
             string result = sb.ToString();
 
             return result.Remove(result.Length - 1, 1);
+        }
+
+        public string BreadthFirst()
+        {
+            Queue<Node> queue = new Queue<Node>();
+            Node root = Root;
+            queue.Enqueue(root);
+
+            List<int> list = new List<int>();
+            bool didThrow = false;
+
+            while (didThrow == false)
+            {
+                Node temp = queue.Dequeue();
+                list.Add(temp.Value);
+
+                if (temp.Left != null)
+                    queue.Enqueue(temp.Left);
+
+                if (temp.Right != null)
+                    queue.Enqueue(temp.Right);
+
+                try
+                {
+                    queue.Peek();
+                }
+                catch
+                {
+                    didThrow = true;
+                }
+            }
+            return String.Join(",", list);
         }
     }
 }

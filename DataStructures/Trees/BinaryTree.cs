@@ -1,6 +1,6 @@
 ﻿namespace DataStructures.Trees
 {
-    class tree
+    class NumberBinaryTree
     {
     }
 }
