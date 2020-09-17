@@ -1,15 +1,13 @@
-﻿namespace DataStructures.Trees
-{
+﻿using DataStructures.LinkedLists;
 
-    public class Node
+namespace DataStructures.Trees
+
+{
+    class Node<T>
     {
-        public Node(int value)
-        {
-            Value = value;
-        }
-        public int Value { get; set; }
+
+        public T Value { get; set; }
         public Node Left { get; set; }
         public Node Right { get; set; }
     }
-
 }
