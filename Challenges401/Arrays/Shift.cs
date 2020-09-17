@@ -2,7 +2,7 @@
 {
     class Shift
     {
-        public static int[] insertShiftArray(int[] inputArray, int input)
+        public static int[] InsertShiftArray(int[] inputArray, int input)
         {
             int n = inputArray.Length;
 
